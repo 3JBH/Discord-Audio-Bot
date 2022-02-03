@@ -6,7 +6,7 @@
 # Requirements
 + FFMPEG installed ----------> https://github.com/BtbN/FFmpeg-Builds/releases
 + Node js installed -----------> https://nodejs.org/en/
-+ A good code editor like vscode or repl.it ---------> https://code.visualstudio.com/  ---||--- https://replit.com/
++ A good code editor like vscode ---------> https://code.visualstudio.com/
 
 # How to install modules
 + npm i discord.js
