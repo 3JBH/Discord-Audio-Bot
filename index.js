@@ -5,8 +5,7 @@ const ytdl = require('ytdl-core');
 const client = new Discord.Client({intents: 32767});
 const request = require(`request`);
 const fs = require("fs")
-
-const { Options, Token, Prefix } = require('./config.json');
+const { Token, Prefix } = require('./config.json');
 
 var randomstring = require("randomstring");
 
