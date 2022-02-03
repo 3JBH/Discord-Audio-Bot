@@ -23,7 +23,7 @@
 Go to `config.json` and add your bot token as follows
 ```js
 {
-    "Prefix": ".",
+    "Prefix": "!",
     "Token": "Your Bot Token"
 }
 ```
